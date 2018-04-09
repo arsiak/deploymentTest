@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/home/rosiak/firstapp/env/bin/python3
 
 from flask import Flask
 
